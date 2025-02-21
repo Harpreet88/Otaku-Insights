@@ -5,6 +5,9 @@ Data Story on Medium feel free to explore.
 
 https://medium.com/@saini.harpreet215/otaku-insights-anime-through-the-lens-of-data-4c817e633453
 
+![Uploading image.png…]()
+
+
 <h3>📌  Project Overview </h3>
 
 This project, Otaku Insights, explores anime data to uncover trends, patterns, and insights using various data science techniques. The analysis includes exploratory data analysis (EDA), topic modeling, clustering, and predictive modeling.
