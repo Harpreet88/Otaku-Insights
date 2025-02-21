@@ -5,7 +5,7 @@ Data Story on Medium feel free to explore.
 
 https://medium.com/@saini.harpreet215/otaku-insights-anime-through-the-lens-of-data-4c817e633453
 
-![Uploading image.png…]()
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Fforum%2F%3Ftopicid%3D1712734&psig=AOvVaw0wc7kr54RlBlWEoQmnkS6F&ust=1740201300943000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjA75-B1IsDFQAAAAAdAAAAABAJ
 
 
 <h3>📌  Project Overview </h3>
