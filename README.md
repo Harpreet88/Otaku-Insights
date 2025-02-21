@@ -59,9 +59,9 @@ Visualization: Power BI, Jupyter Notebook
 
 Insights from topic modeling on anime synopses
 
-Hidden Gems Found (This is bonus for all anime lovers)
+Hidden Gems Found (This is a bonus for all anime lovers)
 
-Rank Prediction with 87 % of Acurracy
+Rank Prediction with 87 % of Accuracy
 
 Impact of features like genre and studio on popularity rankings
 
@@ -71,11 +71,7 @@ Incorporate deep learning-based recommendations
 
 Analyze user review sentiment using NLP
 
-Expand dataset with user ratings and preferences
+Expand the dataset with user ratings and preferences
 
-🤝 Contributing
 
-Feel free to fork this repository, submit pull requests, or raise issues for discussion!
-
-📩 Let's connect!LinkedIn | GitHub
 
