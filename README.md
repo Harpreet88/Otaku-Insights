@@ -6,6 +6,7 @@ Data Story on Medium feel free to explore.
 https://medium.com/@saini.harpreet215/otaku-insights-anime-through-the-lens-of-data-4c817e633453
 
 
+![anime-girl-scenic-nature-fantasy-world-wallpaper-preview](https://github.com/user-attachments/assets/9a3a4adf-8715-467a-916e-21eef878dcbe)
 
 
 <h3>📌  Project Overview </h3>
